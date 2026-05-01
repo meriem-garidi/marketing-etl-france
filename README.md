@@ -47,3 +47,12 @@ Les communes sont segmentées selon leur niveau d’activité commerciale :
 - Transformation de données
 - Analyse métier
 - Data visualisation avec Power BI
+
+## Dataset
+
+Les données utilisées proviennent de l’open data français :
+
+- Source : INSEE – Base Permanente des Équipements
+- Plateforme : https://www.data.gouv.fr
+
+Ce dataset fournit des informations détaillées sur les commerces par commune en France (supermarchés, boulangeries, stations-service, etc.).
